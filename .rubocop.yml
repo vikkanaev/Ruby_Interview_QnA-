@@ -1,0 +1,13 @@
+require: rubocop-rspec
+
+Layout/LineLength:
+  Max: 120
+
+Style/AsciiComments:
+  Enabled: false
+
+Style/Documentation:
+  Enabled: false
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
